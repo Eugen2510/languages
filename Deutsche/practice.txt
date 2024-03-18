@@ -1,0 +1,26 @@
+			lesson 1
+hallo - привет
+ich - я
+fragen - спрашивать
+ich frage - я спрашиваю
+dich - тебя
+ich frage dich - я спрашиваю тебя
+nicht - не
+ich frage nicht - я не спрашиваю
+ich frage dich nicht - я тебя не спрашиваю
+lieben - любить
+ich liebe - я люблю
+ich liebe nicht - я не люблю
+ich liebe dich - я люблю тебя
+ich liebe dich nicht - я тебя не люблю
+leben - жить
+ich lebe - я живу
+ich lebe in Miesbach - я живу в Мисбахе
+ich lebe nicht in Kyiv - я не живу в Киеве
+ich lebe nicht in Ukraine - я живу не в Украине
+heissen - называться (зовут про имя)
+ich heissen - меня зовут (дословно - я называюсь)
+ich heisse Eugene - меня зовут Евгений
+
+
+
