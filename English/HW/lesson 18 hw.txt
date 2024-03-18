@@ -1,0 +1,37 @@
+a.
+	2.play
+	3.cap
+	4.thin
+	5.wallet
+	6.blouse
+	7.teacher
+	8.hotel
+	hidden word = alphabet
+
+b.
+	
+	2.It's the opposite of generous.
+	3.Hire is similar to rent.
+	4.Handsome it's like beautiful, but it's used for men.
+	5.Souvenir it's something which you buy to remind you of your holiday.
+	6.Sunbathe you do this in summer for example on the beach.
+	7.Waiter it's somebody who works in a restaurant.
+	8.Cinema it's somewhere where you can see a film.
+
+c. 
+		DOWN
+	2.Well it's opposite of badly.
+	3.Camera it's something which help us to take photos.
+	4.Museum it's somewhere where we can look at old things.
+	5.Funny it's opposite of boring
+	7.Tall it's opposite of short.
+
+		ACROSS
+	3.Campsite it's somewhere where we can park a house on wheels.
+	6.Lift it's something which help us go up in a building.
+	8.School it's somewhere wher children study.
+	9.Queue it is something which arrange people that wait near a case in a shop.
+	10.lazy it's opposite of hard worker.
+	11.Menu it's something which help us make choise in a restaurant.
+ 
+	
