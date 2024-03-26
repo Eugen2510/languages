@@ -68,3 +68,54 @@ Er fragt dich nicht - он тебя не спрашивает
 Ich fotographiere dich - я фотографирую тебя
 Ich fotographiere dich gern - я люблю тебя фотографировать
 Er lebt in Ukraine in Kyiv - он живет в Киеве, в Украине
+
+			lesson 3
+Deutsch - немецкий язык
+Lernen - учиться, учить
+Schon - красивый, красиво
+Tanzen - танцевать
+Ich lerne Deutsch - я учу немецкий язык
+Du lernst Deutsch - ты учишь немецкий язык
+Er lernt Deutsch - он учит немецкий язык
+Sie lernt Deutsch gern - ей нравится учить немецкий
+Wir lernen Deutsch gern - нам нравится учить немецкий
+Ihr lernt Deutsch nicht gern - вам не нравится учить немецкий
+Sie lernen Deutsch - Вы учите немецкий
+In Deutschland - в Германии
+In Russland - в России
+Ich lebe in Deutschland - я живу в Германии
+Du lernst Deutsch in Deutschland - ты учишь немецкий в Германии
+Er lebt in Russland - он живет в России
+Sie lernt Deutsch in Moskau - она учит немецкий в Москве
+Wir leben in Deutschland - мы живем в Германни
+Ihr lernt Deutsch in Deutschland - вы учите немецкий в Германии
+Sie leben in Deutschland - они живут в Германии
+Sie leben in Russland - Вы живете в россии
+Tanzt du gut? - ты хорошо танцуешь? 
+Ja, Ich tanze gut. - да, я танцую хорошо
+Nein, Ich tanze nicht gut - нет, я танцую не хорошо.
+Sie fotographiert gern - она любит фотографировать
+Fotgraphierst du gern - ты любишь фотографировать?
+ja, Ich fotographiere gern - да, я люблю фотографировать
+Lebst du in Deutschland? - ты живешь в Германии?
+Nein, Ich lebe nicht in Deutschland - нет, я живу не в германии.
+Ja, Ich lebe in Deutschland - да, я живу в Германии
+Nein, Ich lebe nicht in Russland - нет, я не живу в России
+Ja, Ich fotographiere gern - да, я люблю фотографировать
+Ja, Ich lerne gut - да, я учусь хорошо.
+Nein, Ich tanze nicht gern - нет, я не люблю танцевать.
+Fotographierst du mich - ты фотографируешь меня?
+Nein, Ich fotographire Anton - нет, я фотографирую Антона
+Liebst du mich - ты меня любишь?
+Ja, Ich liebe dich - да, я люблю тебя
+Heist sie Anna - ее зовут Анна?
+Ja, sie heist Anna - да, ее зовут Анна
+Anna lebt in Miesbach - анна живет в Мисбахе
+Sie lernt Deutsch in Deutschland - она учит Немецкий в Германии.
+
+
+
+
+
+
+
