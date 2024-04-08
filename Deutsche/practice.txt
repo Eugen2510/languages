@@ -23,7 +23,6 @@ ich heissen - меня зовут (дословно - я называюсь)
 ich heisse Eugene - меня зовут Евгений
 
 			lesson 2
-
 Ich lache - я смеюсь
 Du lachst - ты смеешься
 du lachst nicht - ты не смеешься
@@ -112,6 +111,195 @@ Heist sie Anna - ее зовут Анна?
 Ja, sie heist Anna - да, ее зовут Анна
 Anna lebt in Miesbach - анна живет в Мисбахе
 Sie lernt Deutsch in Deutschland - она учит Немецкий в Германии.
+
+			lesson 4 und Worte
+фотографировать - fotographieren
+смеяться - lachen	
+с удовольствием - gern
+он + окончание для построения глагола в правильной форме - er + t
+ты + окончание для построения глагола в правильной форме - du + st
+я тебя не люблю - ich liebe dich nicht
+она + окончание для построения глагола в правильной форме - sie + t
+наверху,наверх, сверху - oben
+храбрый, смелый, мужественный, отважный - mutig
+оно + окончание для построения глагола в правильной форме - es + t
+Маленький черный кофе, пожалуйста - ein kleiner schwarzer Kaffe bitte
+Вы(вежливое) + окончание для построения глагола в правильной форме - Sie + en
+мы + окончание для построения глагола в правильной форме - wir + en
+вам, вас - ihr
+они + окончание для построения глагола в правильной форме - sie + en
+посохи, палки - stocke
+нравиться, любить, понравиться, возможно - mogen
+я + окончание для построения глагола в правильной форме - ich + e
+мочь, смочь - konnen
+решение, выход, ответ - losung
+вы + окончание для построения глагола в правильной форме - ihr + t
+жить, остановиться, пожить - wohnen
+могу я получить почту? - kann ich Post bekommen?
+ты хороший - du bist gut
+Маленький черный кофе, пожалуйста - einen kleinen schwarzen Kaffee bite
+наверху,наверх, сверху - oben
+волки - wolfe
+мочь, смочь - konnen
+она здесь - sie ist hier
+меня - mich
+хорошо, приятно, красиво, красивый - schon
+сломано, капут - kaputt
+а я Клаус - und ich bin Klaus
+это Бавария - es ist Bayern
+нет - nein
+тебя - dich
+видеть, увидеть, посмотреть - sehen
+хвалить, похвалить - loben
+да - ja
+спрашивать - fragen
+мотор, двигатель - motor
+меня - mich
+чудо - wunder
+госпожа Вайс здесь - Frau Weiss ist hier
+танцевать - tanzen
+здесь - hier
+ты Хайди - du bist Heidi
+посохи, палки - stocke
+Hallo es ist Duo
+красный, рыжый, румяный - rot
+чудо-ребенок - wunderkind
+сломано, капут - kaputt
+пост, должность - amt
+хорошо, приятно, красиво, красивый - schon
+
+			AnkiDroid Worte
+это Бавария - Es ist Bayern
+нет - nein
+Маленький черный кофе, пожалуйста - ein kleiner schwarzer Kaffee bite
+открыть, открывать - ofnen
+да - ja
+меня - mich
+танцевать - tanzen
+ванная - Wanne
+привет, это Дуо - hallo, es ist Duo
+красный, рыжый, румяный - rot
+сломано, капут - kaputt
+меня - mich
+стул - stuhl
+это господин Шмидт - Das ist Herr Schmidt
+оно - es
+Привет, Бетман, а я Бонд - Hallo, Batman, und ich bin Bond
+ты Дуо - du bist Duo
+А она Хайди - und sie ist Heidi
+сюда, внутрь - rein
+ехать, водить, ездить - fahren 
+он господин Энштейн - er ist Herr Einstein
+идти, пойти, уйти - gehen
+жаба - krote
+тоже - auch
+она тоже Лена - sie ist auch Lena
+что - was
+господин(как обращение к мужчине) - Herr
+и оно здесь - und es ist hier
+он - er
+жить - leben
+привет, я тоже Анна - Hallo, ich bin auch Anna
+ты - du
+где - wo
+леди, дама - dame
+кино, кинотеатр - kino
+хорошо - gut
+это тоже хорошо - das ist auch gut
+они - sie
+любить - lieben
+лето - Sommer
+парикмахер 2 варианта - friseur/Perukenmacher
+меня -mich
+привет, это Дуо - Hallo, das ist Duo
+страна, штат, государство -Staat
+мотоцикл - Motorrad
+это, является(в качестве вспомагательного глагола ) - ist
+я живу в Германии - ich lebe in Deutschland
+и - und
+имя, название - Name
+отопление, обогреватель, батарея - heizung
+сюда, внутрь - rein
+я спрашиваю тебя - ich frage dich
+лупа, увеличительное стекло - lupe
+фотография, фото, снимок - foto
+озеро, море, океан - see
+отопление, обогреватель, батарея - Heizung
+я живу - ich lebe
+меня зовут Евгений - ich Heise Eugene
+что - was
+сегодня - heute
+верно, так, точно - richtig
+розовый, румяный, роза - rosa
+Привет, меня зовут Евгений, я живу в Германии, я не живу в Украине - Hallo ich heise Eugene, ich lebe in Deutschland. ich lebe nicht in Ukraine
+где - wo
+я люблю тебя - ich liebe dich
+я люблю - ich liebe
+я не живу в Украине - ich lebe nicht in Ukraine
+работать - arbeiten
+называться(зовут в смысле имя) - heissen
+в - in
+оно + окончание для построения глагола в правильной форме - s + t
+хорошо, приятно, красиво, красивый - schon
+посохи, палки - stocke
+нравиться, любить, понравиться, возможно - mogen
+решение, выход, ответ - losung
+рабочий - arbeiten
+парикмахер 2 варианта - frisuer/peruckenmacher
+мы + окончание для построения глагола в правильной форме - wir + en
+храбрый, смелый, мужественный, отважный - mutig
+вам, вас - ihr
+ты + окончание для построения глагола в правильной форме - du + st
+мотоцикл - motorrad
+с удовольствием - gern
+она + окончание для построения глагола в правильной форме - sie + t
+это, является(в качестве вспомагательного глагола) - ist
+я спрашиваю, ты отвечаешь - ich frage dich, und du antwortest
+Вы(вежливое) + окончание для построения глагола в правильной форме - Sie + en
+имя, название - Name
+он + окончание для построения глагола в правильной форме - er + t
+мочь, смочь - konnen
+отопление, обогреватель, батарея - heizung
+смеяться - lachen
+я + окончание для построения глагола в правильной форме - ich + e
+жить, остановиться, пожить - wohnen
+она охотно отвечает - sie antwortet gern
+я тебя не люблю - ich liebe dich nict
+они + окончание для построения глагола в правильной форме - sie + en
+сегодня - heute
+вы + окончание для построения глагола в правильной форме - ihr + t
+фотографировать - fotografieren
+называться(зовут в смысле имя) - heissen
+наверху,наверх, сверху - oben
+Могу я получить почту? - Kann ich Post bekommen
+работать - arbeiten
+посохи, палки - stocke
+парикмахер 2 варианта - der Friseur/ der Peruckenmacher
+рабочий - arbeiter
+я спрашиваю, ты отвечаешь - ich frage dich und du antwortest
+мочь, смочь - konnen
+они + окончание для построения глагола в правильной форме - sie + en
+она охотно отвечает - sie antwortet gern
+Извините, у вас есть зажигалка? - Entschuldegung, haben Sie ein feuerzeug?
+Entsculdidigung haben sie ein Feuerzeug?
+Entschuldigung haben Sie ein Feuerzeug?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
