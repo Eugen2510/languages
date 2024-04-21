@@ -39,3 +39,48 @@ Danke / danke schon – спасибо
 Bitte / bitte schon – пожалуйста
 Vielen Dank – большое спасибо
 
+froh(фроо) - радостный, рад
+sein(заин) – быть
+Ich – bin глагол быть для я(первое лицо ед число)
+Du – bist глагол быть для ты(второе лицо ед число)
+Er/sie/es – ist глагол быть для он/она/оно (третье лицо ед число)
+Wir – sind(зинт) глагол быть для мы(первое лицо множ число)
+Ihr – seid(заит) глагол быть для вы(второе лицо множ число)
+Sie/sie – sind(зинт) глагол быть для Вы/вы (третье лицо множ число и уважительная форма)
+mude(мьуде) - уставший в контексте хочет спать
+noch(нох) - еще
+noch nicht (нох нихт) - еще не
+ich bin noch nicht mude - я еще не устал
+Bist du mude? - ты хочешь спать?
+Ist er mude? - он хочет спать?
+Ich bin mude - я хочу спать
+satt(зат) - сытый
+Danke ich bin satt - спасибо, я сытый
+Bist du satt? - ты сыт?
+Sind sie satt? - они сыты?
+Ja sie sind satt - да, они сыты
+fertig(феатих) - готов, в контексте сделал свое дело
+Ich bin fertig - я готов
+Bist du fertig? - ты готов/ты закончил?
+Ich bin noch nict fertig - я еще не готов/не закончил
+Seid ihr fertig?(зайди иаа фертих) - вы готовы?
+Nein, wir sind noch nicht fertig - нет мы еще не готовы
+schon(шон) именно так, без : над о - уже
+Ich bin schon fertig(их бин шон фертих) - я уже готов
+Sind wir schon fertig?(зинт виа шон феатих) - мы уже готовы?
+Seid ihr schon fertig?(заит иа шон феатих) - вы уже готовы?
+Sind Sie schon satt?(зинт зиа шон феатих) - Вы уже готовы?
+Jahre alt(яре альт р картавое) - аналог years old в английском, столько-то лет
+Ich bin siebenunddreissig Jahre alt - мне 37
+Wie alt bist du?(ви альт зинд ду) - сколько тебе лет?
+Wie alt sind Sie?(ви альт зинд зии) - сколько Вам лет?
+Wie(вии) - как/на сколлько
+Wie heisst du - как тебя зовут?
+Wie heissen Sie - как Вас зовут?
+
+
+
+
+
+
+
